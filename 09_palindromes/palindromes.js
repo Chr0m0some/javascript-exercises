@@ -30,7 +30,7 @@ function checkSides(array) {
 /* 
 Holy shit, this does everything mine does, but better.
 
-The RegEx is a lot more comprehensible and simple. It matches any single character but the alphabetical characters and replaces them with white space.
+The RegEx is a lot more comprehensible and simple. It matches any single character but the alphabetical characters and replaces them with white space. See more about RegEx: https://javascript.info/regular-expressions
 
 I was having difficulty using reverse because it reverses an array in place. 
 
